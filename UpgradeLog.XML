@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WatchFolderCrawler">
+</Property><Property Name="Solution File" Value="C:\Projects\WatchFolderCrawler\WatchFolderCrawler.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\WatchFolderCrawler\WatchFolderCrawler.suo">
+</Property><Property Name="Date" Value="Monday, April 15, 2013">
+</Property><Property Name="Time" Value="14:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WatchFolderCrawler.sln" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WatchFolderCrawler.suo" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler.suo">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.csproj" Description="Project file successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\WatchFolderCrawler.csproj">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.csproj.user" Description="Project user file successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\WatchFolderCrawler.csproj.user">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Modules\pafap_files.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Modules\pafap_files.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Modules\pafap_lists.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Modules\pafap_lists.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Modules\pafap_search.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Modules\pafap_search.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Modules\pafap_sql.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Modules\pafap_sql.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\WatchFolderCrawler.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.Designer.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\WatchFolderCrawler.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Program.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Program.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\App.config" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\App.config">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Properties\Settings.settings" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\logo.ico" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\logo.ico">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.resx" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\WatchFolderCrawler.resx">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\Properties\Resources.resx" Description="File successfully backed up as C:\Projects\WatchFolderCrawler\Backup\WatchFolderCrawler\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WatchFolderCrawler.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WatchFolderCrawler.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WatchFolderCrawler" Source="WatchFolderCrawler\WatchFolderCrawler.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
